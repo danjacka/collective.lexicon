@@ -1,3 +1,5 @@
+*.py?
+collective.lexicon.egg-info/
 .installed.cfg
 .mr.developer.cfg
 parts
